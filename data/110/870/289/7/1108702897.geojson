@@ -1,0 +1,61 @@
+{
+  "id": 1108702897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.856123,1.365566,103.856123,1.365566",
+    "geom:latitude":1.365566,
+    "geom:longitude":103.856123,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "sg:address":"440, Ang Mo Kio Avenue 10 #11-1307",
+    "sg:city":"Singapore ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"560440",
+    "sg:tags":[
+        "ror",
+        "ruby-on-rails",
+        "application-development"
+    ],
+    "sg:website":"http://www.pluitsolutions.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ASglVxITCOq6GY06lAUel_1.365566_103.856123@1308163238"
+    },
+    "wof:country":"MY",
+    "wof:created":1474570889,
+    "wof:geomhash":"de7ace43afc5f107bf21eacfd8abe1d9",
+    "wof:hierarchy":[],
+    "wof:id":1108702897,
+    "wof:lastmodified":1474570889,
+    "wof:name":"Pluit Solutions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ror",
+        "ruby-on-rails",
+        "application-development"
+    ]
+},
+  "bbox": [
+    103.856123,
+    1.365566,
+    103.856123,
+    1.365566
+],
+  "geometry": {"coordinates":[103.856123,1.365566],"type":"Point"}
+}

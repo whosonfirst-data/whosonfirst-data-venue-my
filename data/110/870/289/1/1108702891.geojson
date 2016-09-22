@@ -1,0 +1,52 @@
+{
+  "id": 1108702891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"103.747574,1.328686,103.747574,1.328686",
+    "geom:latitude":1.328686,
+    "geom:longitude":103.747574,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 International Business Park #01-20A",
+    "sg:city":"Singapore ",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"609927",
+    "sg:website":"http://www.nvidia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FYsd7fc4ATNgy43CmDL79_1.328686_103.747574@1308163237"
+    },
+    "wof:country":"MY",
+    "wof:created":1474570889,
+    "wof:geomhash":"0c986e1fb15324ea4a8001a9313e9eb6",
+    "wof:hierarchy":[],
+    "wof:id":1108702891,
+    "wof:lastmodified":1474570889,
+    "wof:name":"NVidia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.747574,
+    1.328686,
+    103.747574,
+    1.328686
+],
+  "geometry": {"coordinates":[103.747574,1.328686],"type":"Point"}
+}

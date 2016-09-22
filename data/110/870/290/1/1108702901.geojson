@@ -1,0 +1,82 @@
+{
+  "id": 1108702901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"101.6792533,3.1257739,101.6792533,3.1257739",
+    "geom:latitude":3.125774,
+    "geom:longitude":101.679253,
+    "iso:country":"MY",
+    "mz:hierarchy_label":1,
+    "sg:address":"Level 16, Block 3B, Unit 5 Plaza Sentral 2, Jalan Stesen",
+    "sg:city":"Kuala Lumpur",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"Sentral 5 50470 ",
+    "sg:tags":[
+        "wimax",
+        "wi-fi",
+        "lte",
+        "wireless",
+        "saas",
+        "aaa",
+        "internet"
+    ],
+    "sg:website":"http://www.aptilo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102023407,
+        85632739,
+        85783823,
+        85675181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65vEuQDNoVDsh9PXSO0FCP_3.125774_101.679253@1308163242"
+    },
+    "wof:country":"MY",
+    "wof:created":1474570889,
+    "wof:geomhash":"3227aa7e1baedd8343e3b1a34cb66f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":102023407,
+            "neighbourhood_id":85783823,
+            "region_id":85675181,
+            "venue_id":1108702901
+        }
+    ],
+    "wof:id":1108702901,
+    "wof:lastmodified":1474570889,
+    "wof:name":"Aptilo Networks",
+    "wof:parent_id":85783823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-my",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wimax",
+        "wi-fi",
+        "lte",
+        "wireless",
+        "saas",
+        "aaa",
+        "internet"
+    ]
+},
+  "bbox": [
+    101.6792533,
+    3.1257739,
+    101.6792533,
+    3.1257739
+],
+  "geometry": {"coordinates":[101.6792533,3.1257739],"type":"Point"}
+}
